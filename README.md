@@ -8,3 +8,4 @@ In this simple project, We are going to look at an example with three different 
 - It assumes that the components are statistically independent
 - It assumes that the components must have non-Gaussian distribution.
 
+**This project from what I learned from Udacity**
